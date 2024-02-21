@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Ai and Machine Learning Projects
+- 🌱 I’m currently learning Reactjs, Django, Ai/ML, JavaScript
+- 📫 How to reach me: @arsh.thakkar on Instagram
 
 <!--
 **ArshThakkar/ArshThakkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
