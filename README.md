@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshthakkar" alt="arshthakkar" /></a> </p>
 
-- 🌱 I’m currently learning **Ai/ML, Django, ReactJS, NextJs, Data Science**
+- 🌱 I’m currently learning **Ai/ML, Django, ReactJS, MLOps, AWS**
 
 - 📫 How to reach me **arshthakkar127@gmail.com**
 
